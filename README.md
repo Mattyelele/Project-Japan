@@ -2,4 +2,4 @@ Project Japan is a little RTM tool I started work on a few years ago for MW2 on 
 
 
 
-This tool uses the MetroFramework for the design and uses MW2Lib, PS3Lib and PS3Tmapi_net
+This tool uses the MetroFramework for the design and uses MW2Lib and PS3Lib
